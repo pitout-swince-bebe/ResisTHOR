@@ -8,7 +8,7 @@
 #define PIN_SND_AMB PINA0
 #define PIN_SND_FRQ PINA1
 
-//Cedric
+//Cedr
 
 #define MAX_SPEED 0.5
 #define TURNING_SPEED 0.2
